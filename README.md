@@ -11,6 +11,6 @@ I'm always open to discussing new ideas and collaborating on exciting projects! 
 
 - **Email**: longdo805@gmail.com
 - **GitHub**: https://github.com/PhiLongDo
-- **Website**: https://philongdo.github.io/PhiLongDo
+- **Website**: https://philongdo.github.io
 
 Thank you for visiting my profile! Follow me to stay updated on my latest projects. 🌟
